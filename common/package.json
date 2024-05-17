@@ -1,0 +1,15 @@
+{
+  "name": "@devanshs288/common",
+  "version": "1.0.1",
+  "description": "it contains type for blog website project",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zod": "^3.23.8"
+  }
+}
